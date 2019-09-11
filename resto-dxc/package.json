@@ -1,0 +1,21 @@
+{
+  "name": "resto-dxc",
+  "version": "0.0.0",
+  "description": "My restaurant app,Backend",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "native-base": "2.12.1",
+    "react-native-drawer": "2.5.1",
+    "react-native-paper": "2.15.2",
+    "react-native-router-flux": "4.0.6",
+    "react-native-snap-carousel": "3.8.0",
+    "react-native-vector-icons": "6.5.0",
+    "react-navigation": "*",
+    "react-navigation-deprecated-tab-navigator": "*"
+  }
+}
